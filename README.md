@@ -8,5 +8,5 @@ link do curso [python pro](https://www.python.pro.br/)
 
 topicus a serem a bordados:
 1. git
-2. virtual renve
+2. virtualenv
 3. pip
