@@ -5,3 +5,5 @@ nese curço e esncinado como contribuir com projetos de codigoo aberto
 
 
 link do curso [python pro](https://www.python.pro.br/)
+
+1.pip
