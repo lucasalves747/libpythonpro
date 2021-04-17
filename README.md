@@ -6,4 +6,7 @@ nese curço e esncinado como contribuir com projetos de codigoo aberto
 
 link do curso [python pro](https://www.python.pro.br/)
 
-1. pip
+topicus a serem a bordados:
+1. git
+2. virtual renve
+3. pip
