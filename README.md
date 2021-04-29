@@ -6,7 +6,7 @@ nese curço e esncinado como contribuir com projetos de codigoo aberto
 
 link do curso [python pro](https://www.python.pro.br/)
 
-suputada a verçao 3 de python
+ suputada a verçao 3 de python
 
  topicus a serem a bordados:
 1. git
