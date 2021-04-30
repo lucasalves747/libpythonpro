@@ -8,6 +8,27 @@ link do curso [python pro](https://www.python.pro.br/)
 
  suputada a verçao 3 de python
 
+para instalar :
+
+' ' ' console
+
+py -3 -m venv .venv
+
+.venv\Scripts\activate
+
+pip install -r requeriments-dev.txt
+
+''''
+
+para conferir a qualidade do codigo :
+
+"" console
+
+flak8
+
+''''
+
+
  topicus a serem a bordados:
 1. git
 2. virtualenv
